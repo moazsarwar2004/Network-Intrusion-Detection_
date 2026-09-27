@@ -1,0 +1,12 @@
+{
+  "KDDTrain+_20Percent.txt": {
+    "sha256": "7ea86479faab5ca2190b7f18b4982fb058ce5bf2b46e0e1017d0d9ef90f9c16e",
+    "bytes": 3822033,
+    "url": "https://raw.githubusercontent.com/jmnwong/NSL-KDD-Dataset/9d544d0eb9b87d7e2f43ff65733bdb644631d12f/KDDTrain%2B_20Percent.txt"
+  },
+  "KDDTest+.txt": {
+    "sha256": "fa46b0935342616aa83b7c2578db355b6a7aaabbc492248172c7a1e8b7ab8f84",
+    "bytes": 3441513,
+    "url": "https://raw.githubusercontent.com/jmnwong/NSL-KDD-Dataset/9d544d0eb9b87d7e2f43ff65733bdb644631d12f/KDDTest%2B.txt"
+  }
+}

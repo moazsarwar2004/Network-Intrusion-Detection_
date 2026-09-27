@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.7590933286018453,
+  "attack_precision": 0.9663558467741935,
+  "attack_recall": 0.5975999376607185,
+  "attack_f1": 0.738504501901873,
+  "false_positive_rate": 0.027494593759654,
+  "miss_rate": 0.40240006233928155,
+  "tn": 9444,
+  "fp": 267,
+  "fn": 5164,
+  "tp": 7669,
+  "training_seconds": 0.42122278099986943,
+  "batch_prediction_seconds": 0.06615400700002283,
+  "train_rows": 25074,
+  "test_rows": 22544,
+  "always_normal_accuracy": 0.43075762952448543,
+  "sklearn_version": "1.8.0",
+  "seed": 42
+}

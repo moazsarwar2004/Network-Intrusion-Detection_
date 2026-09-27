@@ -1,0 +1,10 @@
+{
+  "train_rows_raw": 25192,
+  "test_rows": 22544,
+  "train_missing_feature_values": 0,
+  "test_missing_feature_values": 0,
+  "train_duplicate_feature_rows": 1,
+  "test_duplicate_feature_rows": 57,
+  "test_rows_matching_train_features": 118,
+  "train_rows_used": 25074
+}
